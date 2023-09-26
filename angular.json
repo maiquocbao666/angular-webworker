@@ -25,7 +25,8 @@
               "src/my-worker2.js"
             ],
             "styles": ["src/styles.css"],
-            "scripts": []
+            "scripts": [],
+            "webWorkerTsConfig": "tsconfig.worker.json"
           },
           "configurations": {
             "production": {
